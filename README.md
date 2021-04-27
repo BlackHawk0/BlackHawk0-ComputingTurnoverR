@@ -1,5 +1,6 @@
 # BlackHawk0-ComputingTurnoverR
 
+
 Complete the following customary initial steps:
 a. Download the DataExercise3.csv file from the appropriate D2L folder (Activities
 > Assignments > Data Exercise 3). Note that this data file is not the same one that
